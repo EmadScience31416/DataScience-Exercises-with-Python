@@ -1,2 +1,2 @@
-# Python-Ejercicios
-Ejercicos de Python
+# Ejercicios de Ciencia de Datos con Python
+
